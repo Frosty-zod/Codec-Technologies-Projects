@@ -33,3 +33,14 @@ A simple contact manager to:
 
 - `Abhishek.ipynb` – contains all 3 tasks in separate code sections  
   Created and tested in **Google Colab**, then synced to GitHub.
+
+---
+
+## 📜 Internship Certificate
+
+Successfully completed a 1-Month Python Developer Internship at Codec Technologies Pvt. Ltd.
+
+📄 [View Certificate](./Python%20developer%20intern.pdf)
+
+---
+
