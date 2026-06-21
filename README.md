@@ -25,20 +25,20 @@ All three tasks are completed in a single **Google Colab notebook** named `Abhis
 
 ## ✅ Completed Tasks
 
-### Task 2: Calculator
+### Task 1: Calculator
 A basic CLI calculator that performs:
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-### Task 3: Password Generator
+### Task 2: Password Generator
 Generates secure random passwords using:
 - Letters (upper & lower)
 - Digits
 - Special characters
 
-### Task 5: Contact Book
+### Task 3: Contact Book
 A simple contact manager to:
 - Add, view, search, update, and delete contacts
 
