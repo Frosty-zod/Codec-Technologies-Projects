@@ -8,6 +8,17 @@ All three tasks are completed in a single **Google Colab notebook** named `Abhis
 
 ---
 
+## 🛠️ Skills Learned
+
+- Python Programming
+- Object-Oriented Programming (OOP)
+- File Handling
+- Git & GitHub
+- Google Colab
+- Problem Solving
+
+---
+
 ## ✅ Completed Tasks
 
 ### Task 2: Calculator
