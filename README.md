@@ -1,6 +1,6 @@
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Internship](https://img.shields.io/badge/Internship-Completed-green)
-![Status](https://img.shields.io/badge/Projects-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Internship Completed](https://img.shields.io/badge/Internship-Completed-green)
+![Projects](https://img.shields.io/badge/Projects-Completed-success)
 
 # Codec Technologies Python Internship – July 2025
 
