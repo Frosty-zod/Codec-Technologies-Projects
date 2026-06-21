@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Internship](https://img.shields.io/badge/Internship-Completed-green)
+![Status](https://img.shields.io/badge/Projects-Completed-success)
+
 # Codec Technologies Python Internship – July 2025
 
 This repository contains my project submissions completed during the Python Developer Internship at Codec Technologies Pvt. Ltd.
