@@ -1,6 +1,8 @@
-# CodSoft Python Internship – July 2025
+# Codec Technologies Python Internship – July 2025
 
-This repository contains my task submissions for the **CodSoft Python Programming Internship (July 2025)**.
+This repository contains my project submissions completed during the Python Developer Internship at Codec Technologies Pvt. Ltd.
+
+Internship Duration: 19 June 2025 – 19 July 2025
 
 All three tasks are completed in a single **Google Colab notebook** named `Abhishek.ipynb`.
 
